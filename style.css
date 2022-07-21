@@ -1,0 +1,38 @@
+body{
+    background: crimson;
+}
+
+#container{
+    width: 75%;
+    margin:  0 auto;
+    text-align: center;
+    padding: 1rem;
+}
+
+#container #name{
+    height: 1rem;
+    padding: 10px 10px;
+    color: blue;
+    font-size: 17px;
+    font-weight: 700;
+    width: 80%;
+}
+
+#container #btnClick{
+    padding: 10px 20px;
+}
+
+#container #error{
+    margin-top: 10px;
+    color: white;
+}
+
+ul li{
+    list-style: none;
+    list-style-type: decimal-leading-zero;
+}
+
+ul li a{
+    text-decoration: none;
+    float: right;
+}
